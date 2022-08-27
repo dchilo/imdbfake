@@ -1,0 +1,45 @@
+.container {
+    min-width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+    color: white;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    gap: 50px;
+
+    max-width: 100%;
+}
+
+.bannerInfo {
+    backdrop-filter: blur(4px);
+    background-image: linear-gradient(to right, rgba(31.5, 10.5, 10.5, 1) 150px, rgba(31.5, 10.5, 10.5, 0.84) 100%);
+    display: inline-flex;
+    border-color: white;
+    border-radius: 15px;
+    width: 90%;
+
+}
+
+.seasons {
+    backdrop-filter: blur(4px);
+    background-image: linear-gradient(to right, rgba(31.5, 10.5, 10.5, 1) 150px, rgba(31.5, 10.5, 10.5, 0.84) 100%);
+    display: flex;
+    border-color: white;
+    border-radius: 10px;
+    width: 90%;
+
+}
+
+.carga {
+    color: black;
+}

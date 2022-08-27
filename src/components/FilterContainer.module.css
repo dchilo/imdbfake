@@ -1,0 +1,21 @@
+.filterContainer {
+    margin-bottom: 10px;
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+.trending {
+    justify-content: center;
+    text-align: center;
+}
+.buttons {
+    justify-content: center;
+    text-align: center;
+}

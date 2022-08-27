@@ -1,0 +1,24 @@
+.header {
+    color: white;
+    text-decoration: none;
+    background-color: #121212 ;
+    padding: 0;
+    min-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+
+    transition: top 0.2s ease-in-out;
+}
+
+.homeLogo {
+    width: 380px;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.homeLogo:hover {
+    color: #0B5ED7;
+    cursor: pointer;
+}

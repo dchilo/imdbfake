@@ -1,0 +1,27 @@
+.container {
+    text-align: left;
+    padding: 50px 10px;
+    padding-right: 40px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.overview {
+    padding-top: 20px;
+}
+
+.overviewText {
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+
+.tagline {
+    padding: 5px 0px;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: 400;
+}

@@ -1,0 +1,10 @@
+.seasonsGrid {
+    display: grid;
+    justify-content: left;
+    gap: 40px;
+    padding: 10px;
+    width: 100%;
+    align-items: center;
+
+    grid-template-columns: repeat(auto-fill, 100%);
+} 

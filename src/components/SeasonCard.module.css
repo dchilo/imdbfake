@@ -1,0 +1,35 @@
+.seasonCard {
+    list-style: none;
+    display: flex;
+}
+
+.seasonInfo {
+    text-align: left;
+    padding: 0 10px;
+}
+
+.overview {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 20px 10px;
+    min-width: 100%
+}
+
+.seasonPoster {
+    padding: 5px 10px;
+}
+
+.seasonImage {
+    border-radius: 10px;
+}
+
+.miniHeader {
+    display: flexbox;
+    width: 100%;
+    align-items: center;
+}
+
+.episodesCount {
+    font-weight: 500;
+    padding: 0 10px;
+}
